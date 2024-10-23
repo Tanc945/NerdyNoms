@@ -9,7 +9,7 @@ Welcome to NerdyNoms! This repo is a collection of delicious recipes(?!) curated
 - License
 
 ## Introduction
-NerdyNoms is a fun and quirky project where I intend to combine our love for food and tech. Here, you'll find recipes for all occasions, along with some data-driven insights into cooking trends and popular ingredients within our team.
+NerdyNoms is a fun and quirky project where I intend to combine our love for food and tech. Here, you'll find recipes for all occasions - mostly the ones that could make our lives a tad bit easy, along with some data-driven insights into cooking trends and popular ingredients within our team.
 
 ## How to Use
 1. **Browse Recipes**: Navigate through the folders to find recipes categorized by type (e.g., Appetizers, MainCourses, Desserts).
